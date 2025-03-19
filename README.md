@@ -24,6 +24,8 @@ A web-based application designed to simplify legal document analysis. Users can 
 ### AI & Document Processing
 - **OpenAI GPT Models** – AI-powered document analysis and legal chat assistance
 - **PyPDF2** – Extracts and processes text from uploaded PDF files
+- **Multi Agent** - Provides self Implemented Multi Agent System.
+- **Reasoning Capabilties** - A MutiAgent based Approach for reasoning providing wider perspective.
 - **python-docx** – Generates formatted Word documents for legal drafts
 
 ## Installation & Setup
@@ -37,8 +39,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/legal-doc-assistant.git
-   cd legal-doc-assistant
+   git clone https://github.com/Rahul-Samedavar/JustiFy.git
+   cd JustiFy
    ```
 2. Install dependencies:
    ```sh
