@@ -12,6 +12,10 @@ A web-based application designed to simplify legal document analysis. Users can 
 - **📂 PDF Viewer**: View and navigate uploaded PDFs directly within the application.
 - **📄 Summary Export**: Download analyzed document summaries as a PDF for easy reference.
 
+[![Watch the video](https://img.youtube.com/vi/QYWgDhLPjME/maxresdefault.jpg)](https://youtu.be/QYWgDhLPjME)
+
+### [Watch this video on YouTube](https://youtu.be/QYWgDhLPjME)
+
 ## Technologies Used
 
 ### Frontend
