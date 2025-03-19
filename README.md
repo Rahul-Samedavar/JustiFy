@@ -46,11 +46,16 @@ Ensure you have the following installed:
    ```sh
    pip install -r requirements.txt
    ```
-3. Start the Flask server:
+3. Set up OpenAI API keys:
+   create a file named .env and add your openAI API Keys there as
+   ```python
+   OPENAI_API_KEY = ********************************
+   ```
+4. Start the Flask server:
    ```sh
    python app.py
    ```
-4. Open the application in your browser at `http://127.0.0.1:5000`
+5. Open the application in your browser at `http://127.0.0.1:5000`
 
 ---
 
